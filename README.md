@@ -112,9 +112,14 @@ vendor-performance-analysis/
   - Monthly revenue trends
   - KPIs and slicers for top products
 
+
+
+
+ 
+
 **Preview Showcase:**
-![Dashboard](images/dashboard.jpg)
-![Mid Report](images/Midreport.jpg)
+![Dashboard](https://github.com/shaheer3646/mobile-shop-sales-analysis-dashboard-powerbi/blob/5c4aa229d43402be8a13f1f5035472cbec6ddf88/Images/Dashboard.jpg)
+
 
 ---
 
